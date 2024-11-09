@@ -1,4 +1,4 @@
-# Assignment for Data Scientist Role at Movius - Hetansh Mehta 07/03/24
+# Llama 2 with Chainlit, Locally hosted with CPU
 
 ## Steps to use : 
 1) Install all the requirements 
